@@ -14,4 +14,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&locale=en" alt="homeroflavio" /></p>
 
-![fogueira]([https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif](https://i.gifer.com/origin/6e/6e5fa90bfd21ebcc53f9dc7cbb7e9030_w200.webp))
+ ![tumblr_o76dehrOs61u591fzo1_1280](https://github.com/user-attachments/assets/827d6152-fef1-4242-9896-26f3a1f6fb4d)
+
