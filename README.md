@@ -40,8 +40,8 @@
 
 ## 🌟 GitHub Stats:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=10&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&theme=radical&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=10&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=github"/>
 </div>
 
 ---
