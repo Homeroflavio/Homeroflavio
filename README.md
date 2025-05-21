@@ -1,5 +1,3 @@
-
-
 # Homero Flávio Dubeux <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
@@ -38,11 +36,17 @@
 
 ---
 
-## 🌟 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=10&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=github"/>
-</div>
+## ⚡ GitHub Stats:
+<table align="center">
+  <tr>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=6&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db"/>
+    </td>
+    <td>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=github"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
