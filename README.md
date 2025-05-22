@@ -1,4 +1,4 @@
-# Homero Flávio Dubeux <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Homero Flávio Dubeux <img src="https://i.pinimg.com/originals/16/f7/cd/16f7cde4ddb136a64ce4454fef9693d9.gif" width="50px">
 
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
