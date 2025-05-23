@@ -43,7 +43,7 @@
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=6&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db"/>
     </td>
     <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=github"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=default"/>
     </td>
   </tr>
 </table>
