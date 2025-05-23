@@ -1,6 +1,6 @@
 # Homero Flávio Dubeux <img src="https://i.pinimg.com/originals/16/f7/cd/16f7cde4ddb136a64ce4454fef9693d9.gif" width="50px">
 
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Welcome to my world🎮​</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homeroflavio&label=Profile%20views&color=0e75b6&style=flat" alt="homeroflavio" /> </p>
 
