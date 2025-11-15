@@ -9,7 +9,7 @@
 ## 😎​ About Me:
 🚀 Brazilian developer exploring both frontend and backend paths
 
-🎮 Fan of clean UI, gaming, and great music
+🎮 Fan of clean UI, data, gaming, and great music
 
 💡 Passionate about tech, creativity, and continuous learning
 
