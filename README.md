@@ -5,10 +5,11 @@
 
 ### 📊 Data Engineering | Data analytics
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac PE  
+💻 Data Engineer | Python • SQL • ETL • Data Pipelines
+
 📍 Recife, Pernambuco, Brasil
 
-🚀 Atualmente focado em **Engenharia de Dados, ETL, bancos de dados e Business Intelligence**.
+🚀 Building data solutions with Python, SQL, ETL, databases and Business Intelligence.
 
 ---
 
