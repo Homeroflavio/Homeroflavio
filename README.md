@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homeroflavio&label=Profile%20views&color=0e75b6&style=flat" alt="homeroflavio" /> </p>
 
 
-### 📊 Data Engineering | Python | SQL | Power BI
+### 📊 Data Engineering | Data analytics
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac PE  
 📍 Recife, Pernambuco, Brasil
