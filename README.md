@@ -1,52 +1,129 @@
-# Homero Flávio Dubeux <img src="https://i.pinimg.com/originals/16/f7/cd/16f7cde4ddb136a64ce4454fef9693d9.gif" width="50px">
-
-<h3 align="center">Welcome to my world🎮​</h3>
+# Homero Flávio Dubeux  <img src="https://i.pinimg.com/originals/16/f7/cd/16f7cde4ddb136a64ce4454fef9693d9.gif" width="50px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=homeroflavio&label=Profile%20views&color=0e75b6&style=flat" alt="homeroflavio" /> </p>
 
----
 
-## 😎​ About Me:
-🚀 Brazilian developer exploring both frontend and backend paths
+### 📊 Data Engineering | Python | SQL | Power BI
 
-🎮 Fan of clean UI, data, gaming, and great music
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac PE  
+📍 Recife, Pernambuco, Brasil
 
-💡 Passionate about tech, creativity, and continuous learning
-
----
-
-## 📚 Technologies:  
-
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-
-**Backend & Databases:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+🚀 Atualmente focado em **Engenharia de Dados, ETL, bancos de dados e Business Intelligence**.
 
 ---
 
-## ⚡ GitHub Stats:
-<table align="center">
-  <tr>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homeroflavio&layout=compact&langs_count=6&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db"/>
-    </td>
-    <td>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=homeroflavio&show_icons=true&title_color=FFA500&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=3498db&rank_icon=default"/>
-    </td>
-  </tr>
-</table>
+## 🧠 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco crescente na área de **Dados**.
+
+Tenho experiência acadêmica e prática com **modelagem de bancos de dados, SQL, Python, ETL, APIs e visualização de dados**, buscando transformar dados brutos em informações úteis para análise e tomada de decisão.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- 🐍 Python para Dados
+- 🔄 ETL e pipelines de dados
+- 🗄️ PostgreSQL e MySQL
+- 📊 Power BI
+- 🐼 Pandas
+- ⚙️ Apache Airflow
+- 🐳 Docker
+- ☁️ Tecnologias de dados e Cloud
+- 🔥 Databricks
+
+---
+
+## 🛠️ Tecnologias
+
+### 📊 Data & BI
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### 🔄 Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 💻 Desenvolvimento
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+### 🧰 Ferramentas
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🦜 Biodata — Pipeline de Dados sobre Espécies
+
+Pipeline de dados desenvolvido para coleta e análise de informações sobre espécies ameaçadas de extinção.
+
+**Tecnologias:**
+
+`Python` `ETL` `APIs` `Airflow` `PostgreSQL` `Docker` `Dash`
+
+Integra dados provenientes de diferentes fontes, realizando **extração, transformação, carga e orquestração dos processos**.
+
+---
+
+### 🎵 Spotify + YouTube ETL
+
+Pipeline de ETL utilizando APIs do Spotify e YouTube para coleta, transformação e análise de dados relacionados a músicas, vídeos e tendências.
+
+**Tecnologias:**
+
+`Python` `Pandas` `APIs` `PostgreSQL` `Docker` `Airflow` `Dash`
+
+---
+
+### 🌱 Brota — Gestão Inteligente de Sementes
+
+Sistema acadêmico voltado para gerenciamento de sementes e distribuição agrícola.
+
+Responsável pelo desenvolvimento da estrutura completa do banco de dados, incluindo:
+
+- Modelagem conceitual
+- Modelo lógico
+- Modelo físico
+- SQL
+- Triggers
+- Procedures
+- Views
+- PostgreSQL
+- Integração com Power BI
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- MANTER AQUI OS GIFS/STATS QUE VOCÊ JÁ USA -->
+</p>
 
 ---
 
@@ -62,5 +139,3 @@
 ---
 
 ![Dark Souls](https://github.com/user-attachments/assets/827d6152-fef1-4242-9896-26f3a1f6fb4d)
-
-<!-- Feel free to edit or expand -->
